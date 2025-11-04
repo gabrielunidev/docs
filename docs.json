@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Documentação",
         "groups": [
           {
             "group": "Getting started",
@@ -48,10 +48,10 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Referencia da API",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "Documentação da API",
             "pages": [
               "api-reference/introduction"
             ]
